@@ -1,0 +1,21 @@
+{
+  "wheel_id": 248,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-109",
+  "project": "unfair-dismissal-lawyers-sydney-checklist-1c6af554006c3b21d73d9",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-com-150",
+  "node_role": "feeder",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney checklist",
+  "intended_url": "http://unfair-dismissal-lawyers-sydney-checklist-1c6af554006c3b21d73d9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "5025775f35f8ecd9",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-sydney-f021e8384f7f21be47da8753e8858ae/",
+      "anchor": "unfair dismissal lawyers sydney",
+      "rel": "follow",
+      "target_type": "cloud"
+    }
+  ]
+}
